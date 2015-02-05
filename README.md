@@ -1,4 +1,4 @@
-# Project-Robocode-Evolved-by-Watchmaker-on-git
+# A Genetic Programming based Robocode agent Project
 
 Ez a repository a 2014. tavaszi feleves onallo laboratoriumi munkamat tartalmazza.
 
